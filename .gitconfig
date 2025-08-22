@@ -1,0 +1,7 @@
+[user]
+	email = khx286@gmail.com
+	name = Andrey Khimchuk
+[alias]
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[init]
+	defaultBranch = main
